@@ -88,6 +88,8 @@
                     <!-- Aquí los integrantes del grupo -->
                     <li>Condori Pinto Juan José</li>
                     <li>Flores Sucapuca Ervin</li>
+                    <li>Muñoz Romani Aroldo Guillermo</li>
+                    <li>  </li>
                 </ul>
             </td>
         </tr>
