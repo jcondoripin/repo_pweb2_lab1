@@ -161,8 +161,16 @@
 ## CUESTIONARIO
 <!-- Aquí las preguntas del cuestionario -->
 - ¿Por qué Git y GitHub son herramientas importantes para el curso?
+
+    Porque ayudan a organizar y alojar archivos, esto es un desarrollo grupal es de gran ayuda
+
 - ¿Qué conductas éticas deberían promocionarse cuando se usa un Sistema de Control de Versiones?
+
+    La responsabilidad, integridad y confindencialidad son algunas éticas que deben estar presentes al trabajar con este sistema ya que es un trabajo de equipo
+
 - ¿Qué son los entándares de codificación?
+
+    Son un conjunto de "reglas" que no estan escritas pero que se han ido surgiendo en los desarrolladores para mejorar la calidad de código y los resultados
 
 #
 
