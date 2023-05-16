@@ -87,6 +87,7 @@
                 <ul>
                     <!-- Aquí los integrantes del grupo -->
                     <li>Condori Pinto Juan José</li>
+                    <li>Flores Sucapuca Ervin</li>
                 </ul>
             </td>
         </tr>
