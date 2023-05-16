@@ -175,7 +175,7 @@
 #
 
 ## CONCLUSIONES
-
+<!-- Aquí las preguntas del cuestionario -->
     -GitHub es una herramienta que te da acceso a la gestion del codigo asi como ayuda a otras personas a ver tu código y aprender de el, teniendo esa sensacion de trabajo en codigo abierto ya que todo es visible y manipulable.
 
 ## REFERENCIAS
