@@ -155,17 +155,41 @@
 
 -Link repositorio proyecto personal: https://github.com/pieroMejiaR/PWeb2-lab/tree/main/lab01
 
+-Link repositorio proyecto personal: https://github.com/jcondoripin/repo_pweb2LabB_individual.git
+
+<img src="./img/juanjose-commits.png" style="width:50%; height:auto"/>
+
 <!-- Aquí los ejercicios propuestos (grupales) -->
 Se creo un repositorio grupal para desarrollar una calculadora con 5 metedos: add(), sub(), mul(), div() y mod(). Cada uno de estos metodos se desarrolló desde una rama diferente y se fue uniendo a la rama main 
 Link repositorio grupal: https://github.com/jcondoripin/repo_pweb2_lab1
 - Cree un proyecto grupal para resolver el siguiente problema: Se desea crear una clase Calculator en Java, que tenga las siguientes operaciones: add, sub, mul, div, mod; estas operaciones recibirán dos enteros y devolverán un entero. (Forme grupos de 3 a 5 personas). Cree ramas para cada integrante y cada cierto tiempo una las ramas al main. No elimine nada para evidenciar ramas, main y commits.
+
+<img src="./img/ramas.png" style="width:300px;"/>
+
 - Debería haber minimo 7 commits:
   - 1er commit - Creación de la plantilla "Calculator.java"
+
+    <img src="./img/cap1_templateCalculator.png" style="width:300px;"/>
+
   - 2do commit - Uniendo rama "ramma-add" al "main" para obtener metodo add().
+
+    <img src="./img/cap2_methodAdd.png" style="width:300px;"/>
+
   - 3er commit - Uniendo rama "ramma-sub" al "main" para obtener metodo sub().
+
+    <img src="./img/cap3_methodSub.png" style="width:300px;"/>
+
   - 4to commit - Uniendo rama "ramma-mul" al "main" para obtener metodo mul().
+
+    <img src="./img/cap4_methodMul.png" style="width:300px;"/>
+
   - 5to commit - Uniendo rama "ramma-div" al "main" para obtener metodo div().
+
+    <img src="./img/cap5_methodDiv.png" style="width:300px;"/>
+
   - 6to commit - Uniendo rama "ramma-mod" al "main" para obtener metodo mod().
+
+    <img src="./img/cap6_methodMod.png" style="width:300px;"/>
 
 #
 
