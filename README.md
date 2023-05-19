@@ -148,10 +148,10 @@
 
 ### SOLUCIÓN DE EJERCICIOS/PROBLEMAS
 -Link repositorio proyecto personal: https://github.com/EliasVizG/PWeb2LabB
+(Algunos commits aparecen realizados por otra persona debido a que otro usuario estaba registrado en el ordenador al momento del commit, pero esto fue corregido al final).
 
 <img src="./img/personal commits Elias.png" style="width:50%; height:auto"/>
 <img src="./img/personal commits Elias-2.png" style="width:50%; height:auto"/>
-(Algunos commits aparecen realizados por otra persona debido a que otro usuario estaba registrado en el ordenador al momento del commit, pero esto fue corregido al final).
 
 -Link repositorio proyecto personal: https://github.com/ifs570/Pweb2LabB.git
 
@@ -164,6 +164,7 @@ Se creo un repositorio grupal para desarrollar una calculadora con 5 metedos: ad
 Cada uno de estos metodos se desarrolló desde una rama diferente y se fue uniendo a la rama main 
 Link repositorio grupal: https://github.com/jcondoripin/repo_pweb2_lab1
 
+<img src="./img/group commits.png" style="width:50%; height:auto"/>
 #
 
 ## CUESTIONARIO
