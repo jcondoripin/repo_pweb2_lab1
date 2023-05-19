@@ -150,6 +150,11 @@
 -Link repositorio proyecto personal: https://github.com/EliasVizG/PWeb2LabB
 
 -Link repositorio proyecto personal: https://github.com/ifs570/Pweb2LabB.git
+
+<img src="./img/piero-commits.png" style="width:50%; height:auto"/>
+
+-Link repositorio proyecto personal: https://github.com/pieroMejiaR/PWeb2-lab/tree/main/lab01
+
 <!-- Aquí los ejercicios propuestos (grupales) -->
 Se creo un repositorio grupal para desarrollar una calculadora con 5 metedos: add(), sub(), mul(), div() y mod(). Cada uno de estos metodos se desarrolló desde una rama diferente y se fue uniendo a la rama main 
 Link repositorio grupal: https://github.com/jcondoripin/repo_pweb2_lab1
