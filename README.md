@@ -148,6 +148,10 @@
 
 ### SOLUCIÓN DE EJERCICIOS/PROBLEMAS
 -Link repositorio proyecto personal: https://github.com/EliasVizG/PWeb2LabB
+(Algunos commits aparecen realizados por otra persona debido a que otro usuario estaba registrado en el ordenador al momento del commit, pero esto fue corregido al final).
+
+<img src="./img/personal commits Elias.png" style="width:50%; height:auto"/>
+<img src="./img/personal commits Elias-2.png" style="width:50%; height:auto"/>
 
 -Link repositorio proyecto personal: https://github.com/ifs570/Pweb2LabB.git
 
@@ -160,7 +164,8 @@
 <img src="./img/juanjose-commits.png" style="width:50%; height:auto"/>
 
 <!-- Aquí los ejercicios propuestos (grupales) -->
-Se creo un repositorio grupal para desarrollar una calculadora con 5 metedos: add(), sub(), mul(), div() y mod(). Cada uno de estos metodos se desarrolló desde una rama diferente y se fue uniendo a la rama main 
+Se creo un repositorio grupal para desarrollar una calculadora con 5 metedos: add(), sub(), mul(), div() y mod().
+Cada uno de estos metodos se desarrolló desde una rama diferente y se fue uniendo a la rama main 
 Link repositorio grupal: https://github.com/jcondoripin/repo_pweb2_lab1
 - Cree un proyecto grupal para resolver el siguiente problema: Se desea crear una clase Calculator en Java, que tenga las siguientes operaciones: add, sub, mul, div, mod; estas operaciones recibirán dos enteros y devolverán un entero. (Forme grupos de 3 a 5 personas). Cree ramas para cada integrante y cada cierto tiempo una las ramas al main. No elimine nada para evidenciar ramas, main y commits.
 
@@ -191,6 +196,8 @@ Link repositorio grupal: https://github.com/jcondoripin/repo_pweb2_lab1
 
     <img src="./img/cap6_methodMod.png" style="width:300px;"/>
 
+
+<img src="./img/group commits.PNG" style="width:50%; height:auto"/>
 #
 
 ## CUESTIONARIO
