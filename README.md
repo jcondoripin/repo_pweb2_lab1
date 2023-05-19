@@ -164,7 +164,7 @@ Se creo un repositorio grupal para desarrollar una calculadora con 5 metedos: ad
 Cada uno de estos metodos se desarrolló desde una rama diferente y se fue uniendo a la rama main 
 Link repositorio grupal: https://github.com/jcondoripin/repo_pweb2_lab1
 
-<img src="./img/group commits.png" style="width:50%; height:auto"/>
+<img src="./img/group commits.PNG" style="width:50%; height:auto"/>
 #
 
 ## CUESTIONARIO
