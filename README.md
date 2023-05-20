@@ -76,7 +76,7 @@
         <tr>
             <td>FECHA DE PRESENTACIÓN::</td>
             <!-- Campo editable -->
-            <td>  </td>
+            <td> 19/05/2023 </td>
             <td>HORA DE PRESENTACIÓN:</td>
             <!-- Campo editable -->
             <td>  </td>
@@ -158,6 +158,10 @@
 <img src="./img/piero-commits.png" style="width:50%; height:auto"/>
 
 -Link repositorio proyecto personal: https://github.com/pieroMejiaR/PWeb2-lab/tree/main/lab01
+
+-Link repositorio proyecto personal: https://github.com/AroldoMunoz/proyecto.git
+
+<img src="./img/personal commits aroldo.png" style="width:50%; height:auto"/>
 
 -Link repositorio proyecto personal: https://github.com/jcondoripin/repo_pweb2LabB_individual.git
 
